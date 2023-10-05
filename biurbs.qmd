@@ -26,7 +26,7 @@ lightbox:
 
 BIURBS aims to improve the understanding of the economics of biodiversity within the built environment of the UK and how urban redevelopment can best be designed, managed, and delivered to support its conservation and enhancement. The research examines: 
 
-* the challenges of delivering and sustaining biodiversity, including the cost and benefit
+* the challenges of delivering and sustaining biodiversity, including the cost and benefit...
 * within different land uses – including residential, industry & commerce, community & public buildings, transport & infrastructure, outdoor recreation 
 * at three spatial scales – macro (city), meso (local neighbourhoods) and micro (site)
 
