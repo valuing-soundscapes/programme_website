@@ -31,13 +31,13 @@ This project provides a rare opportunity to observe tensions and equivocality em
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
 
-**Conservation ecology**
+**Conservation Ecology**
 
 :::
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
 
-**Anthropogenic pressures**
+**Anthropogenic Pressures**
 
 :::
 

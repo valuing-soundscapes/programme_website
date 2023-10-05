@@ -4,5 +4,17 @@
   },
   "projects.qmd": {
     "projects.html": "3b2b66b7"
+  },
+  "biurbs.qmd": {
+    "biurbs.html": "5e410e8d"
+  },
+  "biocred.qmd": {
+    "biocred.html": "7b04e26e"
+  },
+  "sounds.qmd": {
+    "sounds.html": "18f26e06"
+  },
+  "syn.qmd": {
+    "syn.html": "64aaa1d0"
   }
 }
