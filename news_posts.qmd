@@ -1,0 +1,17 @@
+---
+page-layout: full
+title: "News"
+listing:
+  id: news-listings
+  contents: news
+  sort: "date desc"
+  type: default
+  categories: false
+  image-height: 150px
+  sort-ui: false
+  filter-ui: false
+  image-align: left
+---
+
+::: {#news-listings}
+:::

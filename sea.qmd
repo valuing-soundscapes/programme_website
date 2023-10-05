@@ -1,0 +1,82 @@
+---
+page-layout: full
+---
+
+# Sea the Value
+### Valuing Marine Biodiversity for use in Decision Making
+
+</br>
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-5}
+
+![](images/seathevalue_ratio.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-7}
+
+Sea the Value is an interdisciplinary research project designed to create novel, policy-relevant, pluralistic values for marine biodiversity. Currently, Ecosystem Services assessments often disregard differences in habitat extent, condition and quality, and the effect these factors have on the services performed. Furthermore, complex pluralistic values (reflective of multiple perspectives/priorities) are rarely well understood, and often disregarded in decision-making processes. Our project seeks both to plug this critical evidence gap, supporting the integration of biodiversity values into decision-making at all levels. Combining this information, we will apply these new values to co-develop scalable green finance options, leading to a transformative shift in our understanding and utilisation of the economics of biodiversity.
+
+For more information, see our [project website](https://www.pml.ac.uk/science/Projects/Sea-the-Value).
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Environmental Economics**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Ecosystem Services**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Natural Capital**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Pluralistic Value**
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-9}
+
+<br />
+
+The Biodiversity Credits project is led by Professor Nicola Beaumont at the Plymouth Marine Laboratory.
+
+<div class="text-center">
+<a href="https://twitter.com/SeaTheValue"><i>{{< fa brands twitter size=2xl >}}</i></a>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+
+```{=html}
+<img src="https://www.pml.ac.uk/getattachment/78ea8e9c-4d38-4e46-937b-591e5d34e805/beaumont_nicky_750.jpg" class="profile-shape-circle profile-image" >
+```
+
+:::
+
+:::

@@ -1,0 +1,108 @@
+---
+title: "Funded projects"
+page-layout: full
+---
+
+#### In 2022 UKRI funded **seven research projects** and **nine synthesis projects**.
+
+</br>
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+ <img src="images/BIURBS.png" class="card-img d-flex flex-column" alt="architect's isometric sketch of an urban area with integrated multifunctional green infrastructure, including living walls, street planting, marginal scrub areas and shared gardens">
+ <div class="card-img-overlay">
+  <a href="biurbs.qmd" class="stretched-link nounderline text-center">
+    <h3 class='card-name'>BIURBS</h3>
+  </a>
+ </div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+  <img src="images/biocred_crop.png" class="card-img d-flex flex-column" alt="add alt text here">
+  <div class="card-img-overlay">
+   <a href="biocred.qmd" class="stretched-link nounderline text-center">
+   <h3 class='card-name'>Biodiversity Credits</h3>
+   </a>
+  </div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+  <img src="images/NAVIGATE_crop_ratio.png" class="card-img d-flex flex-column" alt="photograph of the sprawling branches of the Angel Oak, a 400-500 year old oak tree.">
+  <div class="card-img-overlay">
+   <a href="navigate.qmd" class="stretched-link nounderline text-center">
+   <h3 class='card-name'>NAVIGATE</h3>
+   </a>
+  </div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+  <img src="images/BIOADD_crop_ratio.png" class="card-img d-flex flex-column" alt="photograph of stacked logs, one of which has the word `sold` spray painted on it">
+  <div class="card-img-overlay">
+   <a href="add.qmd" class="stretched-link nounderline text-center">
+   <h3 class='card-name'>BIOADD</h3>
+   </a>
+  </div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+  <img src="images/soundscapes_crop.png" class="card-img d-flex flex-column" alt="add alt text here">
+  <div class="card-img-overlay">
+   <a href='sounds.qmd' class="stretched-link nounderline text-center">
+   <h3 class='card-name'>Valuing Nature's Soundscapes</h3>
+   </a>
+  </div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+  <img src="images/frameworks_Hollie_Blaydes_crop.png" class="card-img d-flex flex-column" alt="add alt text here">
+  <div class="card-img-overlay">
+  <a href = "frameworks.qmd" class="stretched-link nounderline text-center">
+   <h3 class='card-name'>Trustworthy Frameworks</h3>
+   </a>
+  </div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-50">
+  <img src="images/seathevalue_ratio.png" class="card-img d-flex flex-column" style= "max-height: 100%" alt="add alt text here">
+  <div class="card-img-overlay">
+  <a href='sea.qmd' class="stretched-link nounderline text-center">
+   <h3 class='card-name'>Sea the Value</h3>
+   </a>
+  </div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+<div class="card h-50">
+ <img src="https://images.pexels.com/photos/1595108/pexels-photo-1595108.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" class="card-img d-flex flex-column" style= "max-height: 100%" alt="add alt text here">
+ <div class="card-img-overlay">
+  <a href="syn.qmd" class="stretched-link nounderline text-center">
+    <h3 class='card-name'>Synthesis projects</h3>
+  </a>
+ </div>
+</div>
+
+:::
+
+:::

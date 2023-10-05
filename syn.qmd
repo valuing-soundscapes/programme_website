@@ -1,0 +1,123 @@
+---
+page-layout: full
+title: Synthesis Projects
+---
+
+
+In 2021, UKRI [funded](https://www.ukri.org/opportunity/synthesising-evidence-in-economics-of-biodiversity/) nine short projects to synthesise current knowledge and evidence in the economics of biodiversity. 
+
+The following documents present the outcomes of these projects:
+
+<br />
+
+::: {.grid}
+
+::: {.g-col-12}
+
+<div class="card card-synthesis">
+<div class="card-body">
+<a href="https://www.ukri.org/wp-content/uploads/2022/10/NERC-281022-AssigningEconomicValueBiodiversityPromisePerilsBiodiversityCredits.pdf" class="stretched-link"></a>
+<h5 class="card-title">Assigning economic value to biodiversity: the promise and perils of biodiversity credits</h5>
+<p class="card-subtitle">Principal Investigator: Professor Richard Field, University of Nottingham</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12}
+
+<div class="card card-synthesis">
+<div class="card-body">
+<a href="https://www.ukri.org/wp-content/uploads/2022/10/NERC-281022-BiodiversityWaterCycleRewildingMitigateImpactsHydrologicalExtremes.pdf" class="stretched-link"></a>
+<h5 class="card-title">Biodiversity and the water cycle: can rewilding mitigate the impacts of hydrological extremes?</h5>
+<p class="card-subtitle">Principal Investigator: Dr Gemma Harvey, Queen Mary University of London</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12}
+
+<div class="card card-synthesis">
+<div class="card-body">
+<a href="https://www.ukri.org/wp-content/uploads/2022/10/NERC-281022-BiodiversityMetricsPublicPreferencesCostBasedApproach-FullReport.pdf" class="stretched-link"></a>
+<h5 class="card-title">Biodiversity metrics and biodiversity values for the public appraisal of biodiversity: synthesising and extending the evidence</h5>
+<p class="card-subtitle">Principal Investigator: Professor Ben Groom, University of Exeter</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12}
+
+<div class="card card-synthesis">
+<div class="card-body">
+<a href="https://www.ukri.org/wp-content/uploads/2022/10/NERC-281022-ReviewEcosystemModellingFrameworksSupportDevelopmentIntegratedModelsEcosystemManagement.pdf" class="stretched-link"></a>
+<h5 class="card-title">Core principles for integrated models for ecosystem management</h5>
+<p class="card-subtitle">Principal Investigator: Dr Daniel Bearup, University of Kent</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12}
+
+<div class="card card-synthesis">
+<div class="card-body">
+<a href="https://www.ukri.org/wp-content/uploads/2022/10/NERC-281022-EconomicBenefitsPollinationGlobalFoodSystems-FullReport.pdf" class="stretched-link"></a>
+<h5 class="card-title">Economic benefits of pollination to global food systems - evidence and knowledge gaps</h5>
+<p class="card-subtitle">Principal Investigator: Professor Simon Potts, University of Reading</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12}
+
+<div class="card card-synthesis">
+<div class="card-body">
+<a href="https://www.ukri.org/wp-content/uploads/2022/10/NERC-281022-RewardingLandownersLandManagersConservingBiodiversity.pdf" class="stretched-link"></a>
+<h5 class="card-title">Rewarding landowners and land managers for conserving biodiversity</h5>
+<p class="card-subtitle">Principal Investigator: Professor Nick Hanley, University of Glasgow</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12}
+
+<div class="card card-synthesis">
+<div class="card-body">
+<a href="https://www.ukri.org/wp-content/uploads/2022/10/NERC-281022-SynthesisCriticalAssessmentManagementToolsMainstreamBiodiversityDecisionMakingPrivateSector.pdf" class="stretched-link"></a>
+<h5 class="card-title">Synthesis and critical assessment of management tools to mainstream biodiversity in decision-making in the private sector</h5>
+<p class="card-subtitle">Principal Investigator: Dr Pamela Katic, University of Greenwich</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12}
+
+<div class="card card-synthesis">
+<div class="card-body">
+<a href="https://www.ukri.org/wp-content/uploads/2022/10/NERC-281022-SynthesisingEvidenceEconomicsFarmEnvironmentalBiodiversity-FullReport.pdf" class="stretched-link"></a>
+<h5 class="card-title">Synthesizing evidence in the economics of farm environmental biodiversity</h5>
+<p class="card-subtitle">Principal Investigator: Professor Riccardo Scarpa, University of Durham</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12}
+
+<div class="card card-synthesis">
+<div class="card-body">
+<a href="https://www.ukri.org/wp-content/uploads/2022/10/NERC-281022-UnderstandingEconomicRecoveryPotentialInvestingBiodiversityGlobalSouth-FullReport.pdf" class="stretched-link"></a>
+<h5 class="card-title">Understanding the economic recovery potential of investing in biodiversity in the Global South</h5>
+<p class="card-subtitle">Principal Investigator: Professor Nathalie Seddon, University of Oxford</p>
+</div>
+</div>
+
+:::
+
+:::

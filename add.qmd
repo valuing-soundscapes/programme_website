@@ -1,0 +1,83 @@
+---
+page-layout: full
+---
+
+# BIOADD
+### The Economics of Biodiveristy Additionality
+
+<br />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-5}
+
+![](images/BIOADD_crop_ratio.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-7}
+
+BIOADD is undertaking research to define and show when policies to increase biodiversity are truly additional compared to what would have happened anyway. Additionality will be identified in terms of additional economic value, against secular/baseline regeneration of habitat, and as a result of multiple, layered policies. 
+
+The focus is on tropical forests in Bolivia and Indonesia, in collaboration with partners at the London School of Economics, Grantham Research Institute (LSE) and the Sustainable Development Solutions Network in Bolivia. Economic theory, big data and microeconometrics form the methodological toolbox for BIOADD.
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Climate & Climate Change**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Tropical Forests**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Microeconometrics**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Environmental Economics**
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-9}
+
+<br />
+
+The BIOADD project is led by Professor Ben Groom at the University of Exeter.
+
+<div class="text-center">
+<a href="https://business-school.exeter.ac.uk/about/people/profile/?web_id=ben_groom"><i>{{< fa landmark size=2xl >}}</i></a>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+
+```{=html}
+<img src="https://www.exeter.ac.uk/images/profiles/ben_groom.jpg" class="profile-shape-circle profile-image" >
+```
+
+:::
+
+
+:::

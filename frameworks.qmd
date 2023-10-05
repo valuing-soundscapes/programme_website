@@ -1,0 +1,81 @@
+---
+page-layout: full
+---
+
+# Trustworthy Frameworks
+### Trustworthy and Accountable Decision-Support Frameworks for Biodiversity - A Virtual Labs based Approach
+
+</br>
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-5}
+
+![](images/frameworks_Hollie_Blaydes_crop.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-7}
+
+
+This project is developing virtual labs (cloud-based environments supporting collaborative science) to enable trustworthy and accountable decision-making to promote biodiversity in solar parks and agriculture. 
+
+The virtual labs will allow decision-makers and land managers to understand the interactions and feedbacks between food and energy production and environmental systems. 
+
+Users will be able to explore how their management actions can enhance biodiversity, and the potential economic opportunities associated with this. 
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Conservation Ecology**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Social and Environmental Accounting**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Environmental Informatics**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Ecosystem Scale Processes**
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-9}
+
+<br />
+
+The Trustworthy Frameworks project is led by Professor Gordon Blair at the UK Centre for Ecology & Hydrology.
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+
+```{=html}
+<img src="https://www.ceh.ac.uk/sites/default/files/styles/medium/public/pictures/2022-03/3610.jpg?itok=facq6o6v" class="profile-shape-circle profile-image" >
+```
+
+:::
+
+:::

@@ -1,0 +1,84 @@
+---
+page-layout: full
+---
+
+# NAVIGATE
+### Understanding Nature's Multiple Values for Integration in Decisions
+
+<br />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-5}
+
+![](images/NAVIGATE_crop_ratio.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-7}
+
+**NAVIGATE** is a NERC-funded project based at Aberystwyth University and the University of East Anglia. The project builds on the findings of the recent Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) ‘Values Assessment’ report and aims to evaluate diverse disciplinary and policy understandings of the multiple values of nature to provide clarity on value concepts and how values can be integrated into biodiversity economics and decision making.
+
+For more information, see our [project website](https://navigate.aber.ac.uk).
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Climate & Climate Change**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Ecological Economics**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Environmental Geography**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Ecosystem Services**
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-9}
+
+<br />
+
+The NAVIGATE project is led by Professor Mike Christie at the University of Aberystwyth.
+
+<div class="text-center">
+<a href="https://twitter.com/MikeChristieUni"><i>{{< fa brands twitter size=2xl >}}</i></a>
+<a href="mailto:mec@aber.ac.uk"><i>{{< fa envelope size=2xl >}}</i></a>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+
+```{=html}
+<img src="https://www.aber.ac.uk/staff-profile-assets/img/mec.jpg" class="profile-shape-circle profile-image" >
+```
+
+:::
+
+
+:::

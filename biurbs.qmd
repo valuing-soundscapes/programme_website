@@ -1,0 +1,94 @@
+---
+page-layout: full
+filters:
+  - lightbox
+lightbox: 
+    match: auto
+---
+
+# BIURBS
+### Valuing biodiversity in multi-functional urban development and environment
+
+<br />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-5}
+
+
+![](images/BIURBS.png)
+[click to enlarge]{.text-secondary}
+
+
+:::
+
+::: {.g-col-12 .g-col-md-7}
+
+BIURBS aim to improve the understanding of the economics of biodiversity within the built environment of the UK and how urban redevelopment can best be designed, managed, and delivered to support its conservation and enhancement. The research examines: 
+
+* the challenges of delivering and sustaining biodiversity, including the cost and benefit within 
+* different land uses – including residential, industry & commerce, community & public buildings, transport & infrastructure, outdoor recreation 
+* three spatial scales – macro (city), meso (local neighbourhoods) and micro (site)
+
+For more information, see our [project website](https://www.biurbs.org/).
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Urban & Land Management**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Environmental Economics**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Urban Design**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Environmental Geography**
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-9}
+
+<br />
+
+The BIURBS project is led by Professor Ada Wossink at the University of Manchester.
+
+<div class="text-center">
+<a href="mailto:ada.wossink@manchester.ac.uk"><i>{{< fa envelope size=2xl >}}</i></a>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+
+```{=html}
+<img src="http://personalpages.manchester.ac.uk/staff/Ada.Wossink/Ada_Wossink.jpg" class="profile-shape-circle profile-image" >
+```
+
+:::
+
+
+:::

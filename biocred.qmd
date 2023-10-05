@@ -1,0 +1,84 @@
+---
+page-layout: full
+---
+
+# Biodiversity credits
+### Developing a new co-designed decision support tool for biodiversity credits and investment
+
+</br>
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-5}
+
+![](images/biocred_crop.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-7}
+
+Working with industrial and third sector partners, this project will support the development of the world's first biodiversity credit standard. Analogous to carbon credits, biodiversity credits assign investable and tradeable economic value to biodiversity, for example allowing a landowner to raise finance to fund nature conservation on their land. 
+
+This project provides a rare opportunity to observe tensions and equivocality emerging between scientific and different stakeholders goals in practice. The biodiversity quantification method being proposed for the credit standard requires field sampling and significant cost for project applicants. We aim to develop tools to help select the most appropriate sites for biodiversity uplift projects as well as rigorously field-test shortlisted options for this biodiversity quantification.
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Conservation ecology**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Anthropogenic pressures**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Environmental public goods**
+
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+
+**Quantifying biodiversity**
+
+:::
+
+:::
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-9}
+
+<br />
+
+The Biodiversity Credits project is led by Dr Richard Field at the University of Nottingham.
+
+<div class="text-center">
+<a href="https://orcid.org/0000-0003-2613-2688"><i>{{< fa brands orcid size=2xl >}}</i></a>
+<a href="https://twitter.com/r_field1"><i>{{< fa brands twitter size=2xl >}}</i></a>
+<a href="https://www.nottingham.ac.uk/geography/people/richard.field"><i>{{< fa landmark size=2xl >}}</i></a>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+
+```{=html}
+<img src="/images/richardfield_sq.png" class="profile-shape-circle profile-image" >
+```
+
+:::
+
+:::

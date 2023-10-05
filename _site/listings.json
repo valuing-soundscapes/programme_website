@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/n1-test/index.html"
+    ]
+  },
+  {
+    "listing": "/news_posts.html",
+    "items": [
+      "/news/latitude.html"
+    ]
+  }
+]

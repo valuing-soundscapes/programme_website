@@ -1,0 +1,88 @@
+---
+toc: false
+page-layout: custom
+---
+
+![](/images/landing_page_crop.png)
+
+::: {.grid}
+
+::: {.g-col-8 .g-start-3}
+
+# About the programme{#about}
+
+<hr />
+
+#### [This programme](https://www.ukri.org/what-we-do/our-main-funds-and-areas-of-support/browse-our-areas-of-investment-and-support/economics-of-biodiversity/) aims to inform decision-making by addressing critical gaps in our current understanding of the **economic values, benefits and costs** that society associates with, and derives from, **biodiversity**.
+
+<br />
+
+The programme funds projects bringing together scientists and economists to explore how economies are embedded in nature, and how nature and biodiversity are integrated into economic models and decision making processes, by:
+
+* examining how multiple pluralistic values associated with biodiversity are captured, derived, applied and utilised
+
+* investigating the ways in which socioeconomic and ecological systems are interlinked or coupled, and how this can help build and maintain resilience of these systems in response to increasing disturbances
+
+* exploring how different evidence-based biodiversity valuation methods (including those beyond monetary valuations) can be embedded within mainstream local and national decision making in the UK, whilst also reflecting upon the needs of future generations and meeting global biodiversity and development targets.
+
+<br />
+
+:::
+
+::: {.g-col-2 .g-start-3 .text-center}
+**{{< fa sterling-sign size=xl >}}  Budget:** £6.4 million
+:::
+
+::: {.g-col-2 .g-start-5 .text-center}
+**{{< fa hourglass-half size=xl >}}  Duration:** 2021 to 2025
+:::
+
+::: {.g-col-4 .g-start-7 .text-center}
+**{{< fa network-wired size=xl >}}  Partners involved:** NERC (lead), ESRC (co-funder)
+:::
+
+<br />
+
+::: {.g-col-8 .g-start-3}
+
+# Programme coordinators{#coord}
+
+<hr />
+
+:::
+
+::: {.g-col-1 .g-start-3}
+
+```{=html}
+<img src="https://valuing-soundscapes.github.io/images/sjb.png" class="profile-shape-circle profile-image-small" >
+```
+
+:::
+
+::: {.g-col-2 .g-start-4 .text-center}
+
+#### Dr Simon Butler
+
+![](images/institute_logos/UEA_dark_crop.png){width=150 fig-align="center"}
+
+:::
+
+::: {.g-col-1 .g-start-7}
+
+```{=html}
+<img src="/images/richardfield_sq.png" class="profile-shape-circle profile-image-small" >
+```
+::: 
+
+::: {.g-col-2 .g-start-8 .text-center}
+
+#### Prof Richard Field
+
+![](images/institute_logos/UoN_dark_crop.png){width=120 fig-align="center"}
+
+:::
+
+:::
+
+<br />
+<br />
