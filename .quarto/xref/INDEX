@@ -16,5 +16,17 @@
   },
   "syn.qmd": {
     "syn.html": "64aaa1d0"
+  },
+  "frameworks.qmd": {
+    "frameworks.html": "c60d1231"
+  },
+  "navigate.qmd": {
+    "navigate.html": "d06aea0e"
+  },
+  "add.qmd": {
+    "add.html": "89e17368"
+  },
+  "sea.qmd": {
+    "sea.html": "91281a11"
   }
 }

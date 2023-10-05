@@ -11,7 +11,7 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-md-5}
 
-![](images/frameworks_Hollie_Blaydes_crop.png)
+![](images/frameworks_Hollie_Blaydes_crop.png){fig-alt="Landscape photograph of a field with large solar panels. Sheep are grazing in front of the panels."}
 
 :::
 

@@ -11,7 +11,7 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-md-5}
 
-![](images/seathevalue_ratio.png)
+![](images/seathevalue_ratio.png){fig-alt="Photograph taken directly from above of a rocky coastline and a deep blue sea."}
 
 :::
 
