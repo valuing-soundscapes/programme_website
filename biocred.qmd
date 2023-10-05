@@ -19,7 +19,7 @@ page-layout: full
 
 Working with industrial and third sector partners, this project will support the development of the world's first biodiversity credit standard. Analogous to carbon credits, biodiversity credits assign investable and tradeable economic value to biodiversity, for example allowing a landowner to raise finance to fund nature conservation on their land. 
 
-This project provides a rare opportunity to observe tensions and equivocality emerging between scientific and different stakeholders goals in practice. The biodiversity quantification method being proposed for the credit standard requires field sampling and significant cost for project applicants. We aim to develop tools to help select the most appropriate sites for biodiversity uplift projects as well as rigorously field-test shortlisted options for this biodiversity quantification.
+This project provides a rare opportunity to observe tensions and equivocality emerging between scientific goals and different stakeholders' goals in practice. The biodiversity quantification method being proposed for the credit standard requires field sampling and significant cost for project applicants. We aim to develop tools to help select the most appropriate sites for biodiversity uplift projects as well as rigorously field-test shortlisted options for this biodiversity quantification.
 
 :::
 
@@ -43,13 +43,13 @@ This project provides a rare opportunity to observe tensions and equivocality em
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
 
-**Environmental public goods**
+**Environmental Public Goods**
 
 :::
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
 
-**Quantifying biodiversity**
+**Quantifying Biodiversity**
 
 :::
 

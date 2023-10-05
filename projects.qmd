@@ -3,7 +3,7 @@ title: "Funded projects"
 page-layout: full
 ---
 
-#### In 2022 UKRI funded **seven research projects** and **nine synthesis projects**.
+#### The first phase of the programme (2022) supported nine 3-month projects focused on synthesising evidence in economics of biodiversity. The second phase (2022-2025) is funding seven 3-year projects.
 
 </br>
 
@@ -98,7 +98,7 @@ page-layout: full
  <img src="https://images.pexels.com/photos/1595108/pexels-photo-1595108.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" class="card-img d-flex flex-column" style= "max-height: 100%" alt="add alt text here">
  <div class="card-img-overlay">
   <a href="syn.qmd" class="stretched-link nounderline text-center">
-    <h3 class='card-name'>Synthesis projects</h3>
+    <h3 class='card-name'>Synthesis Project Reports</h3>
   </a>
  </div>
 </div>
