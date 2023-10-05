@@ -16,7 +16,7 @@ lightbox:
 
 #### When at a music festival, the things we generally think of are music, mud, and manky portaloos; festivals rarely bring to mind the surrounding nature at the site.
 
-#### Members of the Valuing Nature’s Soundscapes team from the University of East Anglia took time away from their deskbound lives to encourage festivalgoers at Latitude to think beyond the sounds of the festival to the surrounding natural soundscapes. Among the many stalls, activities, and crowds, we set up our ‘Sound Lab’, where we exposed festivalgoers to sounds of nature and asked how it made them feel.
+#### Members of the [Valuing Nature’s Soundscapes](https://economicsofbiodiversity.org/sounds.html) team from the University of East Anglia took time away from their deskbound lives to encourage festivalgoers at Latitude to think beyond the sounds of the festival to the surrounding natural soundscapes. Among the many stalls, activities, and crowds, we set up our ‘Sound Lab’, where we exposed festivalgoers to sounds of nature and asked how it made them feel.
 
 <br />
 
@@ -35,8 +35,8 @@ We attempted to give the children an immersive acoustic experience, showing soun
 
 ::: {.g-col-12 .g-col-md-5}
 
-![](images/blog_latitude/tent.png)
-[Simon Butler and Claire Buchan standing awkwardly in the science tent. Click to enlarge]{.text-secondary}
+![](images/blog_latitude/tent.webp)
+[Simon Butler and Claire Buchan standing awkwardly in the science tent.]{.text-secondary}
 
 :::
 
@@ -47,7 +47,7 @@ We attempted to give the children an immersive acoustic experience, showing soun
 
 ::: {.g-col-8 .g-start-3}
 
-![](images/blog_latitude/poster.png)
+![](images/blog_latitude/poster.webp)
 [Poster created for the activity. Click to enlarge]{.text-secondary}
 
 :::
