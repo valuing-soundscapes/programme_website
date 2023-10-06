@@ -11,7 +11,7 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-md-5}
 
-![](images/BIOADD_crop_ratio.png){fig-alt="photograph of stacked logs, one of which has the word `sold` spray painted on it"}
+![](images/BIOADD_crop_ratio.webp){fig-alt="photograph of stacked logs, one of which has the word `sold` spray painted on it"}
 
 :::
 

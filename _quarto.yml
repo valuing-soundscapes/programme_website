@@ -3,6 +3,12 @@ project:
   output-dir: docs
 
 website:
+  twitter-card:
+    card-style: summary
+    title: "URKI Economics of Biodiversity"
+    image: "images/EB_logo_favicon_greenleaf.png"
+    description: "Website for the NERC/ESRC Economics of Biodiversity programme."
+    creator: "@buchanding"
   search: false
   title: "Economics of Biodiversity"
   favicon: images/EB_logo_favicon_greenleaf.png

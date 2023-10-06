@@ -11,7 +11,7 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-md-5}
 
-![](images/biocred_crop.png){fig-alt="skipper butterfly sitting on yellow flower with proboscis extended"}
+![](images/biocred_crop.webp){fig-alt="skipper butterfly sitting on yellow flower with proboscis extended"}
 
 :::
 

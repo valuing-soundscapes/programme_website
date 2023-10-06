@@ -11,7 +11,7 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-md-5}
 
-![](images/soundscapes_crop.png){fig-alt="Phylloscopus warbler on branch with beak open, singing"}
+![](images/soundscapes_crop.webp){fig-alt="Phylloscopus warbler on branch with beak open, singing"}
 
 <br />
 Listen to an example reconstructed soundscape:
