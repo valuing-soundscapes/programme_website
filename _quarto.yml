@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  site-url: https://economicsofbiodiversity.org/
   twitter-card:
     card-style: summary
     title: "URKI Economics of Biodiversity"
