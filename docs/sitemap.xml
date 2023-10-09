@@ -2,10 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://economicsofbiodiversity.org/projects.html</loc>
-    <lastmod>2023-10-06T15:55:30.881Z</lastmod>
+    <lastmod>2023-10-09T15:44:03.137Z</lastmod>
   </url>
   <url>
     <loc>https://economicsofbiodiversity.org/index.html</loc>
-    <lastmod>2023-10-06T15:55:43.317Z</lastmod>
+    <lastmod>2023-10-09T15:44:35.267Z</lastmod>
+  </url>
+  <url>
+    <loc>https://economicsofbiodiversity.org/navigate.html</loc>
+    <lastmod>2023-10-09T11:42:51.753Z</lastmod>
+  </url>
+  <url>
+    <loc>https://economicsofbiodiversity.org/news_posts.html</loc>
+    <lastmod>2023-10-09T15:42:12.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://economicsofbiodiversity.org/contact.html</loc>
+    <lastmod>2023-10-09T15:42:14.500Z</lastmod>
+  </url>
+  <url>
+    <loc>https://economicsofbiodiversity.org/biocred.html</loc>
+    <lastmod>2023-10-09T15:44:05.067Z</lastmod>
+  </url>
+  <url>
+    <loc>https://economicsofbiodiversity.org/biurbs.html</loc>
+    <lastmod>2023-10-09T15:44:33.136Z</lastmod>
   </url>
 </urlset>

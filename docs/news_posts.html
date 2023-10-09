@@ -86,9 +86,11 @@ ul.task-list li input[type="checkbox"] {
 
 <meta name="twitter:title" content="URKI Economics of Biodiversity">
 <meta name="twitter:description" content="Website for the NERC/ESRC Economics of Biodiversity programme.">
-<meta name="twitter:image" content="images/EB_logo_favicon_greenleaf.png">
+<meta name="twitter:image" content="https://economicsofbiodiversity.org/images/EB_logo_favicon_greenleaf.png">
 <meta name="twitter:creator" content="@buchanding">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image-height" content="900">
+<meta name="twitter:image-width" content="900">
 </head>
 
 <body class="nav-fixed">
@@ -423,7 +425,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/economicsofbiodiversity\.org\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }

@@ -276,6 +276,12 @@ label {
     border-radius: 1px; 
   }
 
+.card-coord {
+  background-color: $body-bg;
+  //border: 1px solid #6a6a6a;
+  border-radius: 0%; 
+}
+
 .card-title {
   font-weight: $headings-font-weight;
   font-size: 150%;
@@ -321,6 +327,10 @@ h3.card-name2 {
 
 .profile-image {
   width:150px;
+}
+
+.profile-image-mid {
+  width:260px;
 }
 
 .profile-image-small {

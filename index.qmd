@@ -1,13 +1,17 @@
 ---
 toc: false
-page-layout: custom
+page-layout: full
 ---
-
-![](/images/landing_page_crop.webp){fig-alt="Photograph of a natural wooded landscape. Tops of coniferous trees are visible in the foreground, with the treescape continuing into the midground and background."}
 
 ::: {.grid}
 
-::: {.g-col-8 .g-start-3}
+::: {.g-col-12}
+
+![](/images/landing_page_crop.webp){fig-alt="Photograph of a natural wooded landscape. Tops of coniferous trees are visible in the foreground, with the treescape continuing into the midground and background."}
+
+:::
+
+:::
 
 # About the programme{#about}
 
@@ -27,58 +31,60 @@ The programme funds projects bringing together scientists and economists to expl
 
 <br />
 
-:::
+::: {.grid}
 
-::: {.g-col-2 .g-start-3 .text-center}
+::: {.g-col-12 .g-col-md-3 .text-center}
 **{{< fa sterling-sign size=xl >}}  Budget:** £6.4 million
 :::
 
-::: {.g-col-2 .g-start-5 .text-center}
+::: {.g-col-12 .g-col-md-3 .text-center}
 **{{< fa hourglass-half size=xl >}}  Duration:** 2021 to 2025
 :::
 
-::: {.g-col-4 .g-start-7 .text-center}
+::: {.g-col-12 .g-col-md-6  .text-center}
 **{{< fa network-wired size=xl >}}  Partners involved:** NERC (lead), ESRC (co-funder)
 :::
 
 <br />
 
-::: {.g-col-8 .g-start-3}
+:::
+
 
 # Programme coordinators{#coord}
 
 <hr />
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card-coord p-3 py-4">
+<div class="text-center">
+<img src="https://valuing-soundscapes.github.io/images/sjb.png" width="100" class="profile-shape-circle">
+</div>
+<div class="text-center">
+<h4 class="mt-2 mb-4">Dr Simon Butler</h4>
+<div class="text-center">
+<img src="images/institute_logos/UEA_dark_crop.png" width="150">
+</div>
+</div>
+</div>
+
 :::
 
-::: {.g-col-1 .g-start-3}
+::: {.g-col-12 .g-col-md-6}
 
-```{=html}
-<img src="https://valuing-soundscapes.github.io/images/sjb.png" class="profile-shape-circle profile-image-small" >
-```
-
-:::
-
-::: {.g-col-2 .g-start-4 .text-center}
-
-#### Dr Simon Butler
-
-![](images/institute_logos/UEA_dark_crop.png){width=150 fig-align="center"}
-
-:::
-
-::: {.g-col-1 .g-start-7}
-
-```{=html}
-<img src="/images/richardfield_sq.png" class="profile-shape-circle profile-image-small" >
-```
-::: 
-
-::: {.g-col-2 .g-start-8 .text-center}
-
-#### Prof Richard Field
-
-![](images/institute_logos/UoN_dark_crop.png){width=120 fig-align="center"}
+<div class="card-coord p-3 py-4">
+<div class="text-center">
+<img src="/images/richardfield_sq.png" width="100" class="profile-shape-circle">
+</div>
+<div class="text-center">
+<h4 class="mt-2 mb-4">Prof Richard Field</h4>
+<div class="text-center">
+<img src="images/institute_logos/UoN_dark_crop.png" width="130">
+</div>
+</div>
+</div>
 
 :::
 
