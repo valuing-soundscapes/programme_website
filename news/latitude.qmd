@@ -45,7 +45,7 @@ We attempted to give the children an immersive acoustic experience, showing them
 
 ::: {.grid}
 
-::: {.g-col-8 .g-start-3}
+::: {.g-col-12 .g-col-md-8}
 
 ![](images/blog_latitude/poster.webp)
 [Poster created for the activity. Click to enlarge]{.text-secondary}
@@ -60,14 +60,14 @@ We asked adults to listen to three different soundscapes which varied in the num
 
 :::
 
-::: {.g-col-8}
+::: {.g-col-md-8 .g-col-12}
 
 ![](images/blog_latitude/latitude_lickert.png)
 [Proportion of respondents scoring each soundscape by how it made them feel. Click to enlarge]{.text-secondary}
 
 :::
 
-::: {.g-col-4}
+::: {.g-col-md-4 .g-col-12}
 
 <br>
 <br>
