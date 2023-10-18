@@ -37,5 +37,8 @@
   },
   "contact.qmd": {
     "contact.html": "2114373a"
+  },
+  "news/biurbs_survey.qmd": {
+    "biurbs_survey.html": "d6eccc4b"
   }
 }

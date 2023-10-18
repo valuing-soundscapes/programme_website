@@ -17,8 +17,14 @@ website:
     pinned: true
     logo: images/EB_logo_favicon_greenleaf.png
     right:
-      - href: index.qmd#about
-        text: About
+      - text: About
+        menu:
+          - text: About
+            href: index.qmd#about 
+          - text: Programme Coordinators
+            href: index.qmd#coord
+          - text: Programme Advisory Board
+            href: index.qmd#pab
       - href: projects.qmd
         text: Funded projects
       - news_posts.qmd

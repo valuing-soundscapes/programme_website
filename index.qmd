@@ -49,7 +49,6 @@ The programme funds projects bringing together scientists and economists to expl
 
 :::
 
-
 # Programme coordinators{#coord}
 
 <hr />
@@ -60,7 +59,7 @@ The programme funds projects bringing together scientists and economists to expl
 
 <div class="card-coord p-3 py-4">
 <div class="text-center">
-<img src="https://valuing-soundscapes.github.io/images/sjb.png" width="100" class="profile-shape-circle">
+<img src="https://valuing-soundscapes.github.io/images/sjb.png" width="100" class="profile-shape-circle profile-image-mid">
 </div>
 <div class="text-center">
 <h4 class="mt-2 mb-4">Dr Simon Butler</h4>
@@ -76,7 +75,7 @@ The programme funds projects bringing together scientists and economists to expl
 
 <div class="card-coord p-3 py-4">
 <div class="text-center">
-<img src="/images/richardfield_sq.png" width="100" class="profile-shape-circle">
+<img src="/images/richardfield_sq.png" width="100" class="profile-image-mid profile-shape-circle">
 </div>
 <div class="text-center">
 <h4 class="mt-2 mb-4">Prof Richard Field</h4>
@@ -90,5 +89,125 @@ The programme funds projects bringing together scientists and economists to expl
 
 :::
 
-<br />
+
+# Programme advisory board{#pab}
+
+<hr />
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card-coord">
+<div class="text-center">
+<img src="images/Ece_Ozdemiroglu.webp" class="profile-image-mid profile-shape-circle card-img-top">
+</div>
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Ece Ozdemiroglu</h4>
+<p class="card-subtitle">CEO, eftec</p>
+<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#eo-bio" aria-expanded="false" aria-controls="eo-bio">
+    Bio
+  </button>
+<div class="collapse" id = "eo-bio">
+<div class="card-text text-center">
+<p>Environmental economist, founder and CEO of eftec, working to show how dependent economic activity is on nature and that nature has an economic value beyond what is bought and sold in markets, convener of the ISO working group on Natural Capital Accounting for Organizations, member of the Strategic Advisory Group of the BSI’s Nature Investment Standards and member of the Scotland’s First Minister’s Environment Council.
+</p>
+</div>
+</div>
+<div class="text-center">
+<a href="https://eftec.co.uk/our-team/ece-ozdemiroglu"><i>{{< fa landmark >}}</i></a>
+<a href="https://www.linkedin.com/in/ece-ozdemiroglu-741988/"><i>{{< fa brands linkedin >}}</i></a>
+<a href="mailto:ece@eftec.co.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card-coord">
+<div class="text-center">
+<img src="images/james_vause.webp" class="profile-image-mid profile-shape-circle card-img-top">
+</div>
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">James Vause</h4>
+<p class="card-subtitle">UNEP-WCMC</p>
+<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#jv-bio" aria-expanded="false" aria-controls="jv-bio">
+    Bio
+  </button>
+<div class="collapse" id = "jv-bio">
+<div class="card-text text-center">
+<p>James is lead economist at the United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC), UNEP’s biodiversity specialist collaboration centre in Cambridge, UK. Prior to joining UNEP-WCMC in 2015, James was a member of the UK Government Economics Service where, from 2008, he lead the analysis of both the UK’s domestic and international biodiversity policy.
+</p>
+</div>
+</div>
+<div class="text-center">
+<a href="unep-wcmc.org"><i>{{< fa landmark >}}</i></a>
+<a href="https://www.linkedin.com/in/jamesvause/"><i>{{< fa brands linkedin >}}</i></a>
+<a href="mailto:james.vause@unep-wcmc.org"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card-coord">
+<div class="text-center">
+<img src="images/rosie_hails.webp" class="profile-image-mid profile-shape-circle card-img-top">
+</div>
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Prof. Rosie Hails</h4>
+<p class="card-subtitle">Director of Science and Nature, National Trust</p>
+<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#rh-bio" aria-expanded="false" aria-controls="rh-bio">
+    Bio
+  </button>
+<div class="collapse" id = "rh-bio">
+<div class="card-text text-center">
+<p>Professor Rosie Hails MBE FRSB is an ecologist and Nature and Science Director at the National Trust, holding honorary chairs at Exeter and Cranfield Universities. Her role is to develop the Trust’s nature strategy, research portfolio and advice on science evidence relevant to Trust decision making. She leads teams focusing on Nature Conservation, Environmental Research & Data, Trees & Woodland Creation, Wildlife Management, Land Use, Farming and Public Benefits delivered by Nature. She is also one of three Directors of ‘Renew’ – a Changing the Environment program funded by NERC, and led by the University of Exeter & National Trust Partnership.
+
+She is a member of Defra’s Science Advisory Council, Chair of the Biodiversity Expert Committee, and a member of Defra’s bovine TB partnership. She is also on a number of advisory boards. Formerly she was the Science Director for Biodiversity & Ecosystem Science at the UK Centre for Ecology & Hydrology (2013 – 2018). She was awarded an MBE for services to Environmental Research in 2000.
+</p>
+</div>
+</div>
+<div class="text-center">
+<a href="https://www.linkedin.com/in/rosie-hails-10380548/"><i>{{< fa brands linkedin >}}</i></a>
+<a href="mailto:rha@ceh.ac.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card-coord">
+<div class="text-center">
+<img src="images/frank_watzold.webp" class="profile-image-mid profile-shape-circle card-img-top">
+</div>
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Prof. Dr. Frank Wätzold</h4>
+<p class="card-subtitle">Brandenburg University of Technology Cottbus-Senftenberg</p>
+<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#fw-bio" aria-expanded="false" aria-controls="fw-bio">
+    Bio
+  </button>
+<div class="collapse" id = "fw-bio">
+<div class="card-text text-center">
+<p>Frank’s research focuses on the economic analysis of strategies and policy instruments in developing and developed countries to conserve biodiversity and preserve ecosystem services. Increasingly, he also works on the economics of climate change adaptation. In cooperation with natural scientists, in particular ecologists, he develops models which integrate knowledge from economics, ecology and/or other natural sciences. Frank has extensive experience in working with policy makers, for example as a member of the scientific advisory board on biodiversity and genetic resources of the German Ministry of Food and Agriculture.
+</p>
+</div>
+</div>
+<div class="text-center">
+<a href="https://www.b-tu.de/en/fg-umweltoekonomie/"><i>{{< fa landmark >}}</i></a>
+<a href="mailto:waetzold@b-tu.de"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+:::
+
+:::
+
 <br />

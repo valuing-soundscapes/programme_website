@@ -56,7 +56,7 @@ $font-family-sans-serif:      "Open Sans", -apple-system, BlinkMacSystemFont, "S
 
 // Dropdowns
 
-$dropdown-link-hover-color:         $white !default;
+$dropdown-link-hover-color:         rgba($black, .5) !default;
 $dropdown-link-hover-bg:            $primary !default;
 
 // Navs
@@ -129,7 +129,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700
 // Mixins
 
 @mixin btn-shadow($color){
-  @include gradient-y-three-colors(tint-color($color, 6%), $color, 6%, shade-color($color, 6%));
+  // @include gradient-y-three-colors(tint-color($color, 6%), $color, 6%, shade-color($color, 6%));
   filter: none;
   border: 1px solid shade-color($color, 13%);
 }

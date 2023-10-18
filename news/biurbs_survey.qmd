@@ -1,0 +1,42 @@
+---
+title: "BIURBS survey - please contribute"
+description: |
+  Contribute to the improved understanding of biodiversity economics.
+author: Ada Wossink
+date: 2023-10-17
+image: /news/images/blog_biurbs/BIURBS.webp
+page-layout: full
+filters:
+  - lightbox
+lightbox: 
+    match: auto
+---
+
+<br />
+
+#### There is currently a large interest in the topic of biodiversity and urban planning, particularly with mandatory Biodiversity Net-Gain just around the corner. This interest is reflected in the awarding of Valuing Biodiversity in Urban Areas and New Developments [BiUrbs](https://economicsofbiodiversity.org/biurbs.html) project by Natural Environment Research Council (NERC) and Economic and Social Research Council (ESRC). 
+
+#### The [BiUrbs](https://www.biurbs.org/) project has a number of themes combining to develop the understanding of the economics of biodiversity in the urban context.
+
+<br />
+
+At the Sustainability Research Institute (SRI) at the University of East London, the BiUrbs research focuses on the use of biodiversity and blue/green infrastructure planning tools. We are sending out this invite to complete an [**online survey**](https://uelpsych.eu.qualtrics.com/jfe/form/SV_6D3nJWgobJstTqC) to gain knowledge from specific professionals with experience of using nature recovery tools such as: 
+
+- Building with Nature  
+- GI-Val  
+- Urban Greening Factor  
+- BREEAM ecology tool   
+- B£ST  
+- iTREE  
+- Biodiversity Net Gain (BNG) metric  
+- The Environmental Benefits of Nature Tool  
+- NERC Natural Capital Planning Tool  
+- InVEST  
+- LEED ND  
+- The NATURE Tool (previously Net Gain Planning Tool)  
+- Green Infrastructure Framework  
+- Nature Smart Cities Business Model  
+ 
+If this is you, then we would be very grateful if you could take the time to complete this short survey. If this is not part of your role but you know another colleague that does deal with these tools to assist in decision making, we would be grateful if you could forward this to them. Information gathered from this survey will be contribute to the wider understanding of how effective the current tools are, and also how they can be improved to better assist everyone in planning biodiversity decision-making.  
+ 
+#### To contribute to the improved understanding of biodiversity economics, please complete this survey using the link: [https://uelpsych.eu.qualtrics.com/jfe/form/SV_6D3nJWgobJstTqC](https://uelpsych.eu.qualtrics.com/jfe/form/SV_6D3nJWgobJstTqC)
