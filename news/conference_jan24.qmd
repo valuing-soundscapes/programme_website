@@ -1,0 +1,40 @@
+---
+title: "Programme Meeting January 2024"
+description: |
+  View presentations from each project.
+author: Claire Buchan
+date: 2024-01-15
+image: /news/images/blog_conference/notts_county.webp
+page-layout: full
+filters:
+  - lightbox
+lightbox: 
+    match: auto
+---
+
+<br />
+
+#### The UKRI Economics of Biodiversity Programme conference took place Jan 30th - 31st in Nottingham, with delegates from all projects attending.
+
+#### Projects from across the programme created standalone visual explainers of the aims and progress of their projects so far. 
+
+<hr />
+
+### Valuing Nature's Soundscapes
+
+Read more about the aims of this project [here.](https://economicsofbiodiversity.org/sounds.html)
+
+#### WP1: Assessing stocks 
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1]]"}
+![](images/blog_conference/VNS_wp1/Slide1.webp){group="vns_wp1"}
+
+![](images/blog_conference/VNS_wp1/Slide2.webp){group="vns_wp1"}
+
+![](images/blog_conference/VNS_wp1/Slide3.webp){group="vns_wp1"}
+
+![](images/blog_conference/VNS_wp1/Slide4.webp){group="vns_wp1"}
+
+![](images/blog_conference/VNS_wp1/Slide5.webp){group="vns_wp1"}
+:::
