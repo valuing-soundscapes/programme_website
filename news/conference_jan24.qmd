@@ -38,3 +38,37 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 
 ![](images/blog_conference/VNS_wp1/Slide5.webp){group="vns_wp1"}
 :::
+
+#### WP2: Determining flows
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1, 1]]"}
+![](images/blog_conference/VNS_wp2/Slide1.webp){group="vns_wp2"}
+
+![](images/blog_conference/VNS_wp2/Slide2.webp){group="vns_wp2"}
+
+![](images/blog_conference/VNS_wp2/Slide3.webp){group="vns_wp2"}
+
+![](images/blog_conference/VNS_wp2/Slide4.webp){group="vns_wp2"}
+
+![](images/blog_conference/VNS_wp2/Slide5.webp){group="vns_wp2"}
+
+![](images/blog_conference/VNS_wp2/Slide6.webp){group="vns_wp2"}
+:::
+
+#### WP3: Implications of soundscape complexity
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1, 1]]"}
+![](images/blog_conference/VNS_wp3/Slide1.webp){group="vns_wp3"}
+
+![](images/blog_conference/VNS_wp3/Slide2.webp){group="vns_wp3"}
+
+![](images/blog_conference/VNS_wp3/Slide3.webp){group="vns_wp3"}
+
+![](images/blog_conference/VNS_wp3/Slide4.webp){group="vns_wp3"}
+
+![](images/blog_conference/VNS_wp3/Slide5.webp){group="vns_wp3"}
+
+![](images/blog_conference/VNS_wp3/Slide6.webp){group="vns_wp3"}
+:::
