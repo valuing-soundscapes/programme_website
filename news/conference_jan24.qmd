@@ -154,43 +154,43 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 (click to enlarge)
 
 ::: {layout="[[1, 1, 1, 1, 1, 1]]"}
-![](images/blog_conference/Nav_wp2/Slide1.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp2/Slide1.webp){group="nav_wp2" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp2/Slide2.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp2/Slide2.webp){group="nav_wp2" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp2/Slide3.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp2/Slide3.webp){group="nav_wp2" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp2/Slide4.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp2/Slide4.webp){group="nav_wp2" style="border: 3px solid white;"}
 :::
 
 #### WP3: Navigating multiple values
 (click to enlarge)
 
 ::: {layout="[[1, 1, 1, 1, 1, 1]]"}
-![](images/blog_conference/Nav_wp3/Slide1.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp3/Slide1.webp){group="nav_wp3" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp3/Slide2.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp3/Slide2.webp){group="nav_wp3" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp3/Slide3.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp3/Slide3.webp){group="nav_wp3" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp3/Slide4.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp3/Slide4.webp){group="nav_wp3" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp3/Slide5.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp3/Slide5.webp){group="nav_wp3" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp3/Slide6.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp3/Slide6.webp){group="nav_wp3" style="border: 3px solid white;"}
 :::
 
 #### WP4: Developing management tools
 (click to enlarge)
 
 ::: {layout="[[1, 1, 1, 1, 1, 1]]"}
-![](images/blog_conference/Nav_wp4/Slide1.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp4/Slide1.webp){group="nav_wp4" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp4/Slide2.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp4/Slide2.webp){group="nav_wp4" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp4/Slide3.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp4/Slide3.webp){group="nav_wp4" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp4/Slide4.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp4/Slide4.webp){group="nav_wp4" style="border: 3px solid white;"}
 
-![](images/blog_conference/Nav_wp4/Slide5.webp){group="nav_wp1" style="border: 3px solid white;"}
+![](images/blog_conference/Nav_wp4/Slide5.webp){group="nav_wp4" style="border: 3px solid white;"}
 :::
