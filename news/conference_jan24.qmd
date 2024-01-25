@@ -1,7 +1,7 @@
 ---
 title: "Programme Meeting January 2024"
 description: |
-  View presentations from each project.
+  View presentations/posters from each project.
 author: Claire Buchan
 date: 2024-01-15
 image: /news/images/blog_conference/notts_county.webp
@@ -71,4 +71,17 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 ![](images/blog_conference/VNS_wp3/Slide5.webp){group="vns_wp3"}
 
 ![](images/blog_conference/VNS_wp3/Slide6.webp){group="vns_wp3"}
+:::
+
+<hr />
+
+### Biodiversity Credits
+
+Read more about the aims of this project [here.](https://economicsofbiodiversity.org/biocred.html)
+
+#### WP4: Stakeholder Engagement
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1]]"}
+![](images/blog_conference/BC_wp4/Slide1.webp){group="bc_wp4"}
 :::
