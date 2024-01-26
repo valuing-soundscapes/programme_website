@@ -19,6 +19,20 @@ lightbox:
 
 #### Projects from across the programme created standalone visual explainers of the aims and progress of their projects so far. 
 
+<br />
+
+
+[Valuing Nature's Soundscapes](#valuing-natures-soundscapes)
+
+[Biodiversity Credits](#biodiversity-credits)
+
+[Sea the Value](#sec-stv)
+
+[Trustworthy Frameworks](#trustworthy-frameworks)
+
+[Navigate](#navigate)
+
+
 <hr />
 
 ### Valuing Nature's Soundscapes
@@ -104,7 +118,7 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 
 <hr />
 
-### Sea the Value
+### Sea the Value {#sec-stv}
 
 Read more about the aims of this project [here.](https://economicsofbiodiversity.org/sea.html)
 
