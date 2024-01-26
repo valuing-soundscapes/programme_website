@@ -75,6 +75,23 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 :::
 
 <hr />
+### Sea the Value
+Read more about the aims of this project [here.](https://economicsofbiodiversity.org/sea.html)
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1]]"}
+![](images/blog_conference/Stv/Slide1.webp){group="stv" style="border: 3px solid white;"}
+
+![](images/blog_conference/StV/Slide2.webp){group="stv" style="border: 3px solid white;"}
+
+![](images/blog_conference/StV/Slide3.webp){group="stv" style="border: 3px solid white;"}
+
+![](images/blog_conference/StV/Slide4.webp){group="stv" style="border: 3px solid white;"}
+
+![](images/blog_conference/StV/Slide5.webp){group="stv" style="border: 3px solid white;"}
+:::
+
+<hr />
 
 ### Biodiversity Credits
 
