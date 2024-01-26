@@ -80,6 +80,21 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 
 Read more about the aims of this project [here.](https://economicsofbiodiversity.org/biocred.html)
 
+#### WP3: Measuring Biodiversity
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1]]"}
+![](images/blog_conference/BC_wp3/Slide1.webp){group="bc_wp3" style="border: 3px solid white;"}
+
+![](images/blog_conference/BC_wp3/Slide2.webp){group="bc_wp3" style="border: 3px solid white;"}
+
+![](images/blog_conference/BC_wp3/Slide3.webp){group="bc_wp3" style="border: 3px solid white;"}
+
+![](images/blog_conference/BC_wp3/Slide4.webp){group="bc_wp3" style="border: 3px solid white;"}
+
+![](images/blog_conference/BC_wp3/Slide5.webp){group="bc_wp3" style="border: 3px solid white;"}
+:::
+
 #### WP4: Stakeholder Engagement
 (click to enlarge)
 
