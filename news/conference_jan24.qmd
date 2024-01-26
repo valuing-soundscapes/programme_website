@@ -122,6 +122,8 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 ![](images/blog_conference/VNS_wp1/sh_slide5.webp){group="stv" style="border: 3px solid white;"}
 :::
 
+<hr />
+
 ### Trustworthy Frameworks
 
 Read more about the aims of this project [here.](https://economicsofbiodiversity.org/frameworks.html)
