@@ -21,6 +21,9 @@ lightbox:
 
 <br />
 
+:::: {.columns}
+
+::: {.column width="50%"}
 
 [Valuing Nature's Soundscapes](#valuing-natures-soundscapes)
 
@@ -28,9 +31,20 @@ lightbox:
 
 [Sea the Value](#sec-stv)
 
+:::
+
+::: {.column width="50%"}
+
 [Trustworthy Frameworks](#trustworthy-frameworks)
 
 [Navigate](#navigate)
+
+[BIURBS](#biurbs)
+
+:::
+
+::::
+
 
 
 <hr />
@@ -222,4 +236,69 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 ![](images/blog_conference/Nav_wp4/Slide4.webp){group="nav_wp4" style="border: 3px solid white;"}
 
 ![](images/blog_conference/Nav_wp4/Slide5.webp){group="nav_wp4" style="border: 3px solid white;"}
+:::
+
+<hr />
+
+### BIURBS
+Read more about the aims of this project [here.](https://economicsofbiodiversity.org/biurbs.html)
+
+#### WP1
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1]]"}
+![](images/blog_conference/biurbs_wp1/Slide1.webp){group="bi_wp1" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp1/Slide2.webp){group="bi_wp1" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp1/Slide3.webp){group="bi_wp1" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp1/Slide4.webp){group="bi_wp1" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp1/Slide5.webp){group="bi_wp1" style="border: 3px solid white;"}
+:::
+
+#### WP2
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1]]"}
+![](images/blog_conference/biurbs_wp2/Slide1.webp){group="bi_wp2" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp2/Slide2.webp){group="bi_wp2" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp2/Slide3.webp){group="bi_wp2" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp2/Slide4.webp){group="bi_wp2" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp2/Slide5.webp){group="bi_wp2" style="border: 3px solid white;"}
+:::
+
+#### WP3
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1]]"}
+![](images/blog_conference/biurbs_wp3/Slide1.webp){group="bi_wp3" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp3/Slide2.webp){group="bi_wp3" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp3/Slide3.webp){group="bi_wp3" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp3/Slide4.webp){group="bi_wp3" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp3/Slide5.webp){group="bi_wp3" style="border: 3px solid white;"}
+:::
+
+#### WP4
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1]]"}
+![](images/blog_conference/biurbs_wp4/Slide1.webp){group="bi_wp4" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp4/Slide2.webp){group="bi_wp4" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp4/Slide3.webp){group="bi_wp4" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp4/Slide4.webp){group="bi_wp4" style="border: 3px solid white;"}
+
+![](images/blog_conference/biurbs_wp4/Slide5.webp){group="bi_wp4" style="border: 3px solid white;"}
 :::
