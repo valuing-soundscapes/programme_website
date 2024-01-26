@@ -28,13 +28,13 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 
 ::: {layout="[[1, 1, 1, 1, 1]]"}
 
-![](images/blog_conference/StV/sh_slide2.webp){group="stv" style="border: 3px solid white;"}
+![](images/blog_conference/VNS_wp1/sh_slide2.webp){group="stv" style="border: 3px solid white;"}
 
-![](images/blog_conference/StV/sh_slide3.webp){group="stv" style="border: 3px solid white;"}
+![](images/blog_conference/VNS_wp1/sh_slide3.webp){group="stv" style="border: 3px solid white;"}
 
-![](images/blog_conference/StV/sh_slide4.webp){group="stv" style="border: 3px solid white;"}
+![](images/blog_conference/VNS_wp1/sh_slide4.webp){group="stv" style="border: 3px solid white;"}
 
-![](images/blog_conference/StV/sh_slide5.webp){group="stv" style="border: 3px solid white;"}
+![](images/blog_conference/VNS_wp1/sh_slide5.webp){group="stv" style="border: 3px solid white;"}
 :::
 
 <hr />
