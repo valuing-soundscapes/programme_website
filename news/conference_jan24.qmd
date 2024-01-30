@@ -29,7 +29,7 @@ lightbox:
 
 [Biodiversity Credits](#biodiversity-credits)
 
-[Sea the Value](#sec-stv)
+[Sea the Value](#sea-the-value)
 
 :::
 
@@ -132,9 +132,11 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 
 <hr />
 
-### Sea the Value {#sec-stv}
+### Sea the Value
 
 Read more about the aims of this project [here.](https://economicsofbiodiversity.org/sea.html)
+
+#### Participatory Mapping
 
 (click to enlarge)
 
@@ -148,6 +150,24 @@ Read more about the aims of this project [here.](https://economicsofbiodiversity
 ![](images/blog_conference/VNS_wp1/sh_slide4.webp){group="stv" style="border: 3px solid white;"}
 
 ![](images/blog_conference/VNS_wp1/sh_slide5.webp){group="stv" style="border: 3px solid white;"}
+:::
+
+#### Natural Asset Mapping
+
+(click to enlarge)
+
+::: {layout="[[1, 1, 1, 1, 1, 1]]"}
+![](images/blog_conference/VNS_wp2/slide1_s.webp){group="stv2" style="border: 3px solid white;"}
+
+![](images/blog_conference/VNS_wp2/slide2_s.webp){group="stv2" style="border: 3px solid white;"}
+
+![](images/blog_conference/VNS_wp2/slide3_s.webp){group="stv2" style="border: 3px solid white;"}
+
+![](images/blog_conference/VNS_wp2/slide4_s.webp){group="stv2" style="border: 3px solid white;"}
+
+![](images/blog_conference/VNS_wp2/slide5_s.webp){group="stv2" style="border: 3px solid white;"}
+
+![](images/blog_conference/VNS_wp2/slide6_s.webp){group="stv2" style="border: 3px solid white;"}
 :::
 
 <hr />
