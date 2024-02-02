@@ -34,6 +34,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -53,9 +55,11 @@ ul.task-list li input[type="checkbox"] {
 
 <meta name="twitter:title" content="URKI Economics of Biodiversity">
 <meta name="twitter:description" content="Website for the NERC/ESRC Economics of Biodiversity programme.">
-<meta name="twitter:image" content="images/EB_logo_favicon_greenleaf.png">
+<meta name="twitter:image" content="https://economicsofbiodiversity.org/images/EB_logo_favicon_greenleaf.png">
 <meta name="twitter:creator" content="@buchanding">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image-height" content="900">
+<meta name="twitter:image-width" content="900">
 </head>
 
 <body class="nav-fixed">
@@ -77,10 +81,25 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./index.html#about" rel="" target="">
- <span class="menu-text">About</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./index.html#about" rel="" target="">
+ <span class="dropdown-text">About</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./index.html#coord" rel="" target="">
+ <span class="dropdown-text">Programme Coordinators</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./index.html#pab" rel="" target="">
+ <span class="dropdown-text">Programme Advisory Board</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./projects.html" rel="" target="">
  <span class="menu-text">Funded projects</span></a>
@@ -123,6 +142,7 @@ ul.task-list li input[type="checkbox"] {
 <p>This project is developing virtual labs (cloud-based environments supporting collaborative science) to enable trustworthy and accountable decision-making to promote biodiversity in solar parks and agriculture.</p>
 <p>The virtual labs will allow decision-makers and land managers to understand the interactions and feedbacks between food and energy production and environmental systems.</p>
 <p>Users will be able to explore how their management actions can enhance biodiversity, and the potential economic opportunities associated with this.</p>
+<p>For more information, see our <a href="https://www.linkedin.com/groups/12897894/">LinkedIn group</a>.</p>
 </div>
 </div>
 <hr>
@@ -145,6 +165,9 @@ ul.task-list li input[type="checkbox"] {
 <div class="g-col-12 g-col-md-9">
 <p><br></p>
 <p>The Trustworthy Frameworks project is led by Professor Gordon Blair at the UK Centre for Ecology &amp; Hydrology.</p>
+<div class="text-center">
+<p><a href="https://www.linkedin.com/groups/12897894/"><i><i class="fa-brands fa-linkedin fa-2xl" aria-label="linkedin"></i></i></a></p>
+</div>
 </div>
 <div class="g-col-12 g-col-md-3">
 <img src="https://www.ceh.ac.uk/sites/default/files/styles/medium/public/pictures/2022-03/3610.jpg?itok=facq6o6v" class="profile-shape-circle profile-image">
@@ -381,7 +404,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/economicsofbiodiversity\.org\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
