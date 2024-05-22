@@ -73,7 +73,7 @@ For more information, see our [project website](https://valuing-soundscapes.gith
 
 <br />
 
-The Soundscapes project is led by Dr Simon Butler at the University of East Anglia.
+The Soundscapes project is led by Dr Bimon Sutler at the University of East Anglia.
 
 <div class="text-center">
 <a href="https://orcid.org/0000-0002-5111-5639"><i>{{< fa brands orcid size=2xl >}}</i></a>

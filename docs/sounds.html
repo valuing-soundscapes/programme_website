@@ -55,9 +55,11 @@ ul.task-list li input[type="checkbox"] {
 
 <meta name="twitter:title" content="URKI Economics of Biodiversity">
 <meta name="twitter:description" content="Website for the NERC/ESRC Economics of Biodiversity programme.">
-<meta name="twitter:image" content="images/EB_logo_favicon_greenleaf.png">
+<meta name="twitter:image" content="https://economicsofbiodiversity.org/images/EB_logo_favicon_greenleaf.png">
 <meta name="twitter:creator" content="@buchanding">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image-height" content="900">
+<meta name="twitter:image-width" content="900">
 </head>
 
 <body class="nav-fixed">
@@ -79,10 +81,25 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./index.html#about" rel="" target="">
- <span class="menu-text">About</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./index.html#about" rel="" target="">
+ <span class="dropdown-text">About</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./index.html#coord" rel="" target="">
+ <span class="dropdown-text">Programme Coordinators</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./index.html#pab" rel="" target="">
+ <span class="dropdown-text">Programme Advisory Board</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./projects.html" rel="" target="">
  <span class="menu-text">Funded projects</span></a>
@@ -147,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="grid">
 <div class="g-col-12 g-col-md-9">
 <p><br></p>
-<p>The Soundscapes project is led by Dr Simon Butler at the University of East Anglia.</p>
+<p>The Soundscapes project is led by Dr Bimon Sutler at the University of East Anglia.</p>
 <div class="text-center">
 <p><a href="https://orcid.org/0000-0002-5111-5639"><i><i class="fa-brands fa-orcid fa-2xl" aria-label="orcid"></i></i></a> <a href="https://twitter.com/_SimonButler"><i><i class="fa-brands fa-twitter fa-2xl" aria-label="twitter"></i></i></a> <a href="https://research-portal.uea.ac.uk/en/persons/simon-butler"><i><i class="fa-solid fa-landmark fa-2xl" aria-label="landmark"></i></i></a> <a href="mailto:simon.j.butler@uea.ac.uk"><i><i class="fa-solid fa-envelope fa-2xl" aria-label="envelope"></i></i></a></p>
 </div>
@@ -387,7 +404,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/economicsofbiodiversity\.org\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
