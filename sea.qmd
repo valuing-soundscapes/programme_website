@@ -19,7 +19,7 @@ page-layout: full
 
 Sea the Value is an interdisciplinary research project designed to create novel, policy-relevant, pluralistic values for marine biodiversity. Currently, Ecosystem Services assessments often disregard differences in habitat extent, condition and quality, and the effect these factors have on the services performed. Furthermore, complex pluralistic values (reflective of multiple perspectives/priorities) are rarely well understood, and often disregarded in decision-making processes. Our project seeks both to plug this critical evidence gap, supporting the integration of biodiversity values into decision-making at all levels. Combining this information, we will apply these new values to co-develop scalable green finance options, leading to a transformative shift in our understanding and utilisation of the economics of biodiversity.
 
-For more information, see our [project website](https://www.pml.ac.uk/science/Projects/Sea-the-Value).
+For more information, see our [project website](https://www.pml.ac.uk/science/Projects/Sea-the-Value) and our [LinkedIn page](https://www.linkedin.com/company/sea-the-value/?viewAsMember=true).
 
 :::
 
@@ -67,6 +67,7 @@ The Biodiversity Credits project is led by Professor Nicola Beaumont at the Plym
 
 <div class="text-center">
 <a href="https://twitter.com/SeaTheValue"><i>{{< fa brands twitter size=2xl >}}</i></a>
+<a href="https://www.linkedin.com/groups/12897894/"><i>{{< fa brands linkedin size=2xl >}}</i></a>
 </div>
 
 :::

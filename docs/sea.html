@@ -55,9 +55,11 @@ ul.task-list li input[type="checkbox"] {
 
 <meta name="twitter:title" content="URKI Economics of Biodiversity">
 <meta name="twitter:description" content="Website for the NERC/ESRC Economics of Biodiversity programme.">
-<meta name="twitter:image" content="images/EB_logo_favicon_greenleaf.png">
+<meta name="twitter:image" content="https://economicsofbiodiversity.org/images/EB_logo_favicon_greenleaf.png">
 <meta name="twitter:creator" content="@buchanding">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image-height" content="900">
+<meta name="twitter:image-width" content="900">
 </head>
 
 <body class="nav-fixed">
@@ -79,10 +81,25 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./index.html#about" rel="" target="">
- <span class="menu-text">About</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./index.html#about" rel="" target="">
+ <span class="dropdown-text">About</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./index.html#coord" rel="" target="">
+ <span class="dropdown-text">Programme Coordinators</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./index.html#pab" rel="" target="">
+ <span class="dropdown-text">Programme Advisory Board</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./projects.html" rel="" target="">
  <span class="menu-text">Funded projects</span></a>
@@ -123,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="g-col-12 g-col-md-7">
 <p>Sea the Value is an interdisciplinary research project designed to create novel, policy-relevant, pluralistic values for marine biodiversity. Currently, Ecosystem Services assessments often disregard differences in habitat extent, condition and quality, and the effect these factors have on the services performed. Furthermore, complex pluralistic values (reflective of multiple perspectives/priorities) are rarely well understood, and often disregarded in decision-making processes. Our project seeks both to plug this critical evidence gap, supporting the integration of biodiversity values into decision-making at all levels. Combining this information, we will apply these new values to co-develop scalable green finance options, leading to a transformative shift in our understanding and utilisation of the economics of biodiversity.</p>
-<p>For more information, see our <a href="https://www.pml.ac.uk/science/Projects/Sea-the-Value">project website</a>.</p>
+<p>For more information, see our <a href="https://www.pml.ac.uk/science/Projects/Sea-the-Value">project website</a> and our <a href="https://www.linkedin.com/company/sea-the-value/?viewAsMember=true">LinkedIn page</a>.</p>
 </div>
 </div>
 <hr>
@@ -147,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 <p><br></p>
 <p>The Biodiversity Credits project is led by Professor Nicola Beaumont at the Plymouth Marine Laboratory.</p>
 <div class="text-center">
-<p><a href="https://twitter.com/SeaTheValue"><i><i class="fa-brands fa-twitter fa-2xl" aria-label="twitter"></i></i></a></p>
+<p><a href="https://twitter.com/SeaTheValue"><i><i class="fa-brands fa-twitter fa-2xl" aria-label="twitter"></i></i></a> <a href="https://www.linkedin.com/groups/12897894/"><i><i class="fa-brands fa-linkedin fa-2xl" aria-label="linkedin"></i></i></a></p>
 </div>
 </div>
 <div class="g-col-12 g-col-md-3">
@@ -385,7 +402,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/economicsofbiodiversity\.org\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
