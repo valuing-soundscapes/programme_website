@@ -6,8 +6,6 @@ author: Claire Buchan
 date: 2023-09-28
 image: /news/images/blog_latitude/poster.png
 page-layout: full
-filters:
-  - lightbox
 lightbox: 
     match: auto
 ---
@@ -35,8 +33,7 @@ We attempted to give the children an immersive acoustic experience, showing them
 
 ::: {.g-col-12 .g-col-md-5}
 
-![](images/blog_latitude/tent.webp)
-[Simon Butler and Claire Buchan standing awkwardly in the science tent.]{.text-secondary}
+![Simon Butler and Claire Buchan standing awkwardly in the science tent.](images/blog_latitude/tent.webp)
 
 :::
 
@@ -47,8 +44,7 @@ We attempted to give the children an immersive acoustic experience, showing them
 
 ::: {.g-col-12 .g-col-md-8}
 
-![](images/blog_latitude/poster.webp)
-[Poster created for the activity. Click to enlarge]{.text-secondary}
+![Poster created for the activity. Click to enlarge](images/blog_latitude/poster.webp)
 
 :::
 

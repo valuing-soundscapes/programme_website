@@ -6,10 +6,6 @@ author: Ada Wossink
 date: 2023-10-17
 image: /news/images/blog_biurbs/BIURBS.webp
 page-layout: full
-filters:
-  - lightbox
-lightbox: 
-    match: auto
 ---
 
 <br />

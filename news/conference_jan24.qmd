@@ -6,8 +6,6 @@ author: Claire Buchan
 date: 2024-01-15
 image: /news/images/blog_conference/notts_county.webp
 page-layout: full
-filters:
-  - lightbox
 lightbox: 
     match: auto
     loop: false

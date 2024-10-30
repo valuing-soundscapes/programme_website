@@ -1,0 +1,60 @@
+---
+title: "From landscape to soundscape: acoustic monitoring project"
+description: |
+  Project update
+author: William Gough
+date: 2024-10-30
+image: /news/images/blog_soundscapes/fig3.webp
+page-layout: full
+lightbox: 
+    match: auto
+---
+
+<br />
+
+### The University of East Anglia / British Trust for Ornithology soundscape monitoring project was launched with the aim of uncovering the drivers of spatial and temporal variations in soundscape characteristics. 
+
+<br />
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+
+These drivers of variation remain largely unknown, preventing effective targeting of natural soundscape conservation efforts. Since our first acoustic monitoring device was deployed in March 2023, the project has steadily expanded, and now covers 47 active Breeding Bird Survey (BBS) squares across England, Scotland, and Wales **(Fig.1)**. This growing network of volunteer contributions has collected over 7000 hours of audio recordings, providing valuable insights into the dynamic characteristics of the UK’s natural soundscapes.
+
+The audio files we collect are analysed to extract acoustic indices that describe soundscape characteristics based on their acoustic properties. Acoustic indices have been shown to correlate with species diversity, vegetation structure, and they have successfully captured circadian rhythms for a range of taxa. 
+
+For example, the Bioacoustic Index summarises both the volume and frequency range of songs and calls produced by the local bird community. Higher values indicate greater avian abundance and activity, while lower values indicate reduced abundance and call activity (**Fig.2**). 
+
+:::
+
+::: {.g-col-12 .g-col-md-1}
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+
+![**Fig. 1** - Locations of acoustic devices currently deployed](images/blog_soundscapes/active_site_map.webp)
+
+:::
+
+:::
+
+![**Fig. 2** - Annual (left) and daily (right) variation in the Bioacoustic Index. Daily variation is shown separately for the breeding season (April–July) and non-breeding season (October–February) for 2023 and 2024. The 2023 data is represented by blue lines, and 2024 data by green lines, with lighter shades indicating the breeding season and darker shades indicating the non-breeding season. These are example outputs from a single BBS square which has been monitored continuously since March 2023.](images/blog_soundscapes/fig2.webp)
+
+</br>
+
+The annual and daily variations in the Bioacoustic Index highlight seasonal peaks and troughs in avian vocal activity, corresponding with breeding and non-breeding periods. These graphs indicate that vocal activity was generally higher in 2023 than in 2024, especially during the breeding season. Peak vocal activity was observed during the dawn chorus in both years, with heightened intensity during the breeding season.
+
+As well as quantifying their overall acoustic properties, sound files are also run through BirdNET, a free-to-use classifier, to derive species lists for specific times of day throughout the breeding (Apr-July) and non-breeding season (Oct-February) **(Fig.3)**. BirdNET provides a measure of the algorithm's performance in its prediction for a given species presence in the recording termed as the “confidence” score. For the outputs presented here, BirdNET outputs were filtered to a confidence score of ≥0.9 to increase the probability of correct identification for given species. The classifier generally performs well, but there is capacity for false positives, so detections should not be taken as concrete evidence of presence. However, with ongoing updates and improvements, BirdNET is expected to become a valuable tool for avian monitoring programmes, offering greater accuracy and usability in the future.
+
+</br>
+
+![**Fig. 3** - Relative detection frequency, calculated as the proportion of days in which the species was detected, during the breeding (Apr-July) and non-breeding (Oct-February) season. These are example outputs from a single BBS square which has been monitored continuously since March 2023.](images/blog_soundscapes/fig3.webp)
+
+</br>
+
+Thank you to all the volunteers who have been maintaining monitoring devices since 2023, as well as to the new volunteers who have recently joined us. Your contributions to monitoring diverse and unique locations across the UK is expanding our collection of acoustic data, whilst enhancing our understanding of how soundscape characteristics vary across different landscapes and regions. We are deeply grateful for your dedication, which continues to drive the success of this project and strengthens our understanding of the rich soundscapes that surround us. 
+
+**We are keen to expand our coverage by recruiting additional volunteers to deploy and maintain recording devices.** If you would like to be part of the University of East Anglia / British Trust for Ornithology soundscapes monitoring project, we’d be delighted to hear from you. We are especially interested in expanding our efforts in Scotland and Wales, so if your Breeding Bird Survey (BBS) square is located in those areas, your participation would be invaluable. Please direct any queries you may have to William Gough at [w.gough@uea.ac.uk](mailto:w.gough@uea.ac.uk).
