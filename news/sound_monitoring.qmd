@@ -9,19 +9,19 @@ page-layout: full
 lightbox: 
     match: auto
 ---
+ 
+![](images/institute_logos/UEA_BTO.webp){.no-lightbox width=25%}
 
-<br />
 
 ### The University of East Anglia / British Trust for Ornithology soundscape monitoring project was launched with the aim of uncovering the drivers of spatial and temporal variations in soundscape characteristics. 
 
 <br />
 
-
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-7}
 
-These drivers of variation remain largely unknown, preventing effective targeting of natural soundscape conservation efforts. Since our first acoustic monitoring device was deployed in March 2023, the project has steadily expanded, and now covers 47 active Breeding Bird Survey (BBS) squares across England, Scotland, and Wales **(Fig.1)**. This growing network of volunteer contributions has collected over 7000 hours of audio recordings, providing valuable insights into the dynamic characteristics of the UK’s natural soundscapes.
+These drivers of variation remain largely unknown, preventing effective targeting of natural soundscape conservation efforts. Since our first acoustic monitoring device was deployed in March 2023, the project has steadily expanded, and now covers 47 active BTO/JNCC/RSPB Breeding Bird Survey (BBS) squares across England, Scotland, and Wales **(Fig.1)**. This growing network of volunteer contributions has collected over 7000 hours of audio recordings, providing valuable insights into the dynamic characteristics of the UK’s natural soundscapes.
 
 The audio files we collect are analysed to extract acoustic indices that describe soundscape characteristics based on their acoustic properties. Acoustic indices have been shown to correlate with species diversity, vegetation structure, and they have successfully captured circadian rhythms for a range of taxa. 
 
