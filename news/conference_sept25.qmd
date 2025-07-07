@@ -1,10 +1,10 @@
 ---
-title: "2025 Conference"
+title: "The Economics of Biodiversity: Valuing and Financing Nature"
 description: |
-  The Economics of Biodiversity: Valuing and Financing Nature 16th-17th September 2025, Royal Geographical Society, London
+  Programme conference, 16th-17th September 2025, Royal Graphical Society, London
 author: Liam Crowther
 date: 2025-07-01
-image: /news/images/blog_latitude/poster.png
+image: /news/images/blog_conference/RGS.webp
 page-layout: full
 lightbox: 
     match: auto
@@ -14,9 +14,7 @@ lightbox:
 
 #### This event brings the results of the £6.4 million, UKRI-funded “Economics of Biodiversity” research programme to those involved in valuing and financing biodiversity. It comprises three sessions of talks/panel discussions and an exhibition summarising the findings of the seven funded projects. The talk sessions are organised around three themes: (a) Natural Capital; (b) Valuation of Biodiversity; (c) Green Finance and Decision Making. The exhibition combines poster and video content, aimed at bringing the results to life for policymakers and practitioners. The event will also be relevant to the UK’s hosting in February 2026 of the IPBES Plenary, with its focus on the IPBES Business and Biodiversity Assessment. 
 
-#### For further details about registration, please contact Sue Davis or Gamze Yakar-Pritchard.
+#### For further details about registration, please contact Sue Davis [sue.davis@nottingham.ac.uk](mailto:sue.davis@nottingham.ac.uk) or Gamze Yakar-Pritchard [gamze.yakar-pritchard@nottingham.ac.uk](mailto:gamze.yakar-pritchard@nottingham.ac.uk).
 
-#### [Sue](mailto:sue.davis@nottingham.ac.uk)
-#### [Gamze](gamze.yakar-pritchard@nottingham.ac.uk)
 
 </br>
