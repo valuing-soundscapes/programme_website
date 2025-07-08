@@ -1,7 +1,7 @@
 ---
 title: "The Economics of Biodiversity: Valuing and Financing Nature"
 description: |
-  Programme conference, 16th-17th September 2025, Royal Graphical Society, London
+  Programme conference, 16th-17th September 2025, Royal Geographical Society, London
 author: Liam Crowther
 date: 2025-07-01
 image: /news/images/blog_conference/RGS.webp
