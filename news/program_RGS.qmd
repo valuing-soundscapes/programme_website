@@ -1,0 +1,87 @@
+---
+title: "EoB Conference Programme"
+description: |
+  Economics of Biodiversity programme conference, 16th-17th September 2025, Royal Geographical Society, London
+author: Liam Crowther
+date: 2025-09-15
+image: /images/landing_page_crop.webp
+page-layout: full
+lightbox: 
+    match: auto
+---
+
+<br />
+
+[**16^th^ September**]{.underline}
+
+11:30-               Registration
+
+*12:30-13:30    Lunch*
+
+14.00-14.15    Opening remarks (Richard Field)
+
+***14:15-16:30    SESSION 1: [NATURAL CAPITAL]{.underline} (Chair: Richard Field)***
+
+14:15-14:30    Introduction (Rosie Hails)
+
+14:30-14:45    *Plural values of nature: A cross-disciplinary exploration of instrumental, intrinsic, relational, and shared dimensions* (Ebere Ihemezie, NAVIGATE project)
+
+14:45-15:00    *Building a shared understanding of who makes decisions, why accountability and trust matter, and the variability of these at different scales of decisions* (Jan Bebbington, TRUSTWORTHY FRAMEWORKS project)
+
+15:00-15:15    *Accounting for additionality in the presence of deforestation and regrowth* (Ben Balmford, BIOADD project)
+
+*15:15-15:45    Coffee Break*
+
+15:45-16:00    *How do coastal habitats contribute to climate regulation and nutrient bioremediation?* (Stefanie Broszeit and Gordon Watson, SEA THE VALUE project)
+
+16:00-16:15    *Nature positive planning: a comparative exploration of how nature planning tools support biodiversity conservation decision-making* (Gloria Osei and Robert Barker, BIURBS project)
+
+16:15-16:30    *Shifting soundscapes and the implications for human health and well-being* (Simon Butler, VALUING SOUNDSCAPES project)
+
+16:30-17:00    Panel discussion (session speakers as panel members)
+
+17:00-18:00    Launch of exhibition and poster session
+
+[**17^th^ September**]{.underline}
+
+08.30-9.00       Coffee
+
+***09:00-11:45    SESSION 2: [VALUATION]{.underline} (Chair: Kelly Widdicks)***
+
+09:00-09:15    Introduction (James Vause)
+
+09:15-09:30    *Valuing nature’s plural dimensions: Can economic approaches capture and differentiate instrumental, intrinsic, relational, and shared values* (Mike Christie, NAVIGATE project)
+
+09:30-09:45    *Forest conservation policy, additionality and socio-environmental implications* (Sarah Meier, BIOADD project)
+
+09:45-10:00    *Valuing biodiversity in multi-functional urban development and environments* (Jessica Lamond and Ada Wossink, BIURBS project)
+
+*10:00-10:30    Coffee Break*
+
+10:30-10:45    *Participatory mapping to support coastal communities to ‘Sea the Value’ of marine restoration initiatives* (Daryl Burdon, SEA THE VALUE project)
+
+10:45-11:00    *Methods and challenges of measuring  biodiversity for the credits market* (Franziska Schrodt, BIODIVERSTIY CREDITS project)
+
+11:00-11:15    *The economic value of birdsong* (Nick Hanley, VALUING SOUNDSCAPES project)
+
+11:15-11:45    Panel discussion (session speakers as panel members)
+
+*12:00-13:00    Lunch*
+
+***13:00-15:30    SESSION 3: [GREEN FINANCE/DECISION MAKING]{.underline} (Chair: Simon Butler)***
+
+13:00-13:15    Introduction (Ece Ozdemiroglu)
+
+13:15-13:30    *Co-designing Virtual Labs for trustworthy & accountable environmental decision making* (David Green, TRUSTWORTHY FRAMEWORKS project)
+
+13:30-13:45    *How early market actors view voluntary Biodiversity Credits: Drivers and barriers* (Gamze Yakar-Pritchard and Andrew Greenman, BIODIVERSITY CREDITS project)
+
+*13:45-14:15    Coffee Break*
+
+14:15-14:30    *Using a natural capital approach to link monetary valuation to finance* (Ian Dickie, SEA THE VALUE project)
+
+14:30-14:45    *Conservation strategies in contested environments: dynamic Monte Carlo simulations and a Bolivian case study* (Diana Weinhold and Lykke Andersen, BIOADD project)
+
+14:45-15:00    *From valuation to decision-making: Opportunities and barriers to embedding nature’s plural values in policy* (Tere Gómez Osorio, NAVIGATE project)
+
+15:00-15:30    Panel discussion (session speakers as panel members) & Closing remarks</br>
