@@ -1,0 +1,17 @@
+---
+title: "Economics of Biodiversity programme film"
+description: |
+  A short film introducing the different work programs that make up the programme
+author: Liam Crowther
+date: 2025-09-15
+image: /news/images/video_still.png
+page-layout: full
+lightbox: 
+    match: auto
+---
+
+<br />
+
+[Click here to view](https://vimeo.com/1118655240?fl=pl&fe=sh)
+
+</br>
